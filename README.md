@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there 👋
+## My name is Rapolas and I am a first-year Computer Science student at Kaunas University of Technology (KTU), aiming to become a software engineer who builds meaningful, real-world solutions. I have a solid foundation in C# and bring a unique creative perspective from my background in graphic design.
+
+
+
+
 
 <!--
 **Rapolas22/Rapolas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
